@@ -1,5 +1,5 @@
 # FPV 遥控器 Web 配置界面
-
+https://latin-cmd.github.io/fpv_review/
 一个运行在 **ESP32** 上的 FPV 遥控器 Web 配置页面。基于 Vue 3 + Vite 构建，通过 WebSocket 与 ESP32 实时通信，提供 18 通道数据可视化、双摇杆显示、通道校准等功能。
 
 ## 功能特性
